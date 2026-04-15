@@ -12,8 +12,8 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Roma More",
-  firstName: "Roma",   // Used in the hero greeting
+  name: "Roma Mor",
+  firstName: "Ro",   // Used in the hero greeting
   lastName: "More",      // Displayed large in the hero section
   tagline: "Blessed",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
