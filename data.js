@@ -15,7 +15,7 @@ const portfolioData = {
   name: "Roma More",
   firstName: "Roma",   // Used in the hero greeting
   lastName: "More",      // Displayed large in the hero section
-  tagline: "Yay-yay",
+  tagline: "Blessed",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
